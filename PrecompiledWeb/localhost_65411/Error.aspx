@@ -1,4 +1,4 @@
-﻿<%@ page language="C#" autoeventwireup="true" masterpagefile="~/OnlineInside.master" inherits="Error, App_Web_wxkg3lpr" %>
+﻿<%@ page language="C#" autoeventwireup="true" masterpagefile="~/OnlineInside.master" inherits="Error, App_Web_m42e11xx" %>
 <%--<font color="red" size="6"></font>
         <table width="100%" border="0" cellpadding="1" cellspacing="1" class="text">
             <tr>

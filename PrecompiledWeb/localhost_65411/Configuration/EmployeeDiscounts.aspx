@@ -1,4 +1,4 @@
-﻿<%@ page title="Employee Discounts" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Admin_EmployeeDiscounts, App_Web_p5sxnoyk" %>
+﻿<%@ page title="Employee Discounts" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Admin_EmployeeDiscounts, App_Web_z0qh3rc3" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <div class="row">

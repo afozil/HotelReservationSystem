@@ -1,4 +1,4 @@
-﻿<%@ page title="" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="test, App_Web_wxkg3lpr" %>
+﻿<%@ page title="" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="test, App_Web_m42e11xx" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="Server">
     <link type="text/css" rel="stylesheet" href="/Scripts/js/view.css" />
     <script type="text/javascript" src="/Scripts/js/jquery-1.3.2.min.js"></script>

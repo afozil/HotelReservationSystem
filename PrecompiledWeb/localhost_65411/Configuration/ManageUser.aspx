@@ -1,4 +1,4 @@
-﻿<%@ page title="Manage User" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Configuration_ManageUser, App_Web_p5sxnoyk" %>
+﻿<%@ page title="Manage User" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Configuration_ManageUser, App_Web_z0qh3rc3" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
       <div class="panel panel-default">

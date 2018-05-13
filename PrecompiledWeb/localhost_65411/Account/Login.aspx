@@ -1,4 +1,4 @@
-﻿<%@ page title="Log in" language="C#" masterpagefile="~/Site.Master" autoeventwireup="true" inherits="Account_Login, App_Web_ppymwd0a" async="true" %>
+﻿<%@ page title="Log in" language="C#" masterpagefile="~/Site.Master" autoeventwireup="true" inherits="Account_Login, App_Web_nknbptrv" async="true" %>
 
 <%@ Register Src="~/Account/OpenAuthProviders.ascx" TagPrefix="uc" TagName="OpenAuthProviders" %>
 
