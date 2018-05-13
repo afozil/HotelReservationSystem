@@ -1,0 +1,75 @@
+/* 
+
+jFlow Plus v2 Demo CSS 
+
+Description: Demonstation CSS for jFlow Plus
+
+Creator: Devin Walker
+
+Date: July 29, 2010
+
+
+*/
+
+#sliderContainer {  position: relative;  margin: 0 auto; height:678px; width:1024px;border:0px solid red; }
+
+#jFlowSlider{
+	height:678px !important; width:1024px !important; 
+	float: left;
+}
+
+.slideContent {
+bottom: 0;
+height: 678px;
+left: 10;
+position: absolute;
+text-align: left;
+top: 10;
+width: 1024px; }
+
+.slide h3 {  font: 18px/1em 'MyriadProSemibold'; color: #FFF; }
+.slide h1 {  font: x-large 'MyriadProSemibold'; color: #FFF; } /*mahadevi */
+
+.slide p { font-size: 13px; color: #fff;  font-family:'MyriadProSemibold' !important; }
+
+.jFlowSlideContainer { overflow: hidden; height:678px !important; width:1024px !important;}
+
+.jFlowSlideContainer a { color: #fff; text-decoration: none; font-style: italic; }
+
+.jFlowSlideContainer a:hover { text-decoration: none; }
+
+.jFlowSlideContainer a:focus { position: relative; top: 1px; }
+
+.jFlowNext {
+    background: url("../images/arrow1.png") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    height: 40px;
+    position: absolute;
+    right: 30px;
+    bottom: 115px;
+    width: 37px;
+	z-index:1000;
+}
+.jFlowPrev {
+    background: url("../images/arrow2.png") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    height: 40px;
+    right: 69px;
+    position: absolute;
+    bottom: 115px;
+    width: 37px;
+	z-index:1000;
+}
+
+
+/* controller pagination */
+
+#myController {position: absolute;
+right: 6px;
+top: 6px; }
+
+.jFlowControl { background:url("../images/bullet.png") no-repeat scroll 0px 0px transparent;  float: left; width: 15px; height: 15px;}
+
+.jFlowControl:hover { background-position: -32px 0px; cursor: pointer; }
+
+.jFlowSelected, .jFlowSelected:hover {background-position: -15px 0px;   }
