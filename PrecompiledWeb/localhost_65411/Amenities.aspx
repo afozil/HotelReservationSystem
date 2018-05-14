@@ -1,4 +1,4 @@
-﻿<%@ page title="Amenities" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Admin_Amenities, App_Web_m42e11xx" %>
+﻿<%@ page title="Amenities" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Admin_Amenities, App_Web_4qpqkpye" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
       <div class="row"><div class="col-md-12">

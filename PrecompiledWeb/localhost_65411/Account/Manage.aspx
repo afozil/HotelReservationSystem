@@ -1,4 +1,4 @@
-﻿<%@ page title="Manage Account" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Account_Manage, App_Web_nknbptrv" %>
+﻿<%@ page title="Manage Account" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Account_Manage, App_Web_yo4zyay2" %>
 
 <%@ Register Src="~/Account/OpenAuthProviders.ascx" TagPrefix="uc" TagName="OpenAuthProviders" %>
 

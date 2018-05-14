@@ -1,4 +1,4 @@
-﻿<%@ page title="Amenities" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Hotel_AddAmenities, App_Web_0t3h1jy2" %>
+﻿<%@ page title="Amenities" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Hotel_AddAmenities, App_Web_dcln124p" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <script type="text/javascript">
         var specialKeys = new Array();

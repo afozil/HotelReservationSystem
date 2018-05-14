@@ -1,4 +1,4 @@
-﻿<%@ page title="Contact" language="C#" masterpagefile="~/OnlineSite.Master" autoeventwireup="true" inherits="Contact, App_Web_m42e11xx" %>
+﻿<%@ page title="Contact" language="C#" masterpagefile="~/OnlineSite.Master" autoeventwireup="true" inherits="Contact, App_Web_4qpqkpye" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>

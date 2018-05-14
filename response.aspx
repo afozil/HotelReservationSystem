@@ -8,7 +8,7 @@
         'this for production purposes. Merchants should build their own web pages based on their needs. 
         'This demo is just a guide as to what the whole process will look like.
     
-    Changes Made by Ahamed Fozil on 13-5-52018 @ 2:33 pm
+    Changes Made by Ahamed Fozil on 14-5-52018 @ 7:33 am
 
          ' Declaration of variables
       */
