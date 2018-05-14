@@ -1,4 +1,4 @@
-﻿<%@ page title="" language="C#" masterpagefile="~/OnlineInside.master" autoeventwireup="true" inherits="paymentconfirmed, App_Web_4qpqkpye" enableeventvalidation="False" %>
+﻿<%@ page title="" language="C#" masterpagefile="~/OnlineInside.master" autoeventwireup="true" inherits="paymentconfirmed, App_Web_3u0vitlg" enableeventvalidation="False" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="Server">
     <asp:UpdatePanel ID="confirmReseversationPanel" runat="server">
         <ContentTemplate>

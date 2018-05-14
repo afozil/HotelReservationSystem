@@ -1,4 +1,4 @@
-﻿<%@ page title="" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Configuration_RoomTypeOnlineDetails, App_Web_uh3qsns0" validaterequest="false" %>
+﻿<%@ page title="" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Configuration_RoomTypeOnlineDetails, App_Web_0nvmeo0o" validaterequest="false" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="Server">
     <script type="text/javascript" src="../Site2_references/jssor.slider.min.js"></script>

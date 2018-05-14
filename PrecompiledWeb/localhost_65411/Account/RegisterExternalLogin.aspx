@@ -1,4 +1,4 @@
-﻿<%@ page language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Account_RegisterExternalLogin, App_Web_vxoadttc" async="true" %>
+﻿<%@ page language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Account_RegisterExternalLogin, App_Web_sceaipl2" async="true" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <h3>Register with your <%: ProviderName %> account</h3>

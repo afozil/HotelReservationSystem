@@ -1,4 +1,4 @@
-﻿<%@ control language="C#" autoeventwireup="true" inherits="OpenAuthProviders, App_Web_vxoadttc" %>
+﻿<%@ control language="C#" autoeventwireup="true" inherits="OpenAuthProviders, App_Web_sceaipl2" %>
 
 <div id="socialLoginList">
     <h4>Use another service to log in.</h4>

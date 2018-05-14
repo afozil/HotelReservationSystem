@@ -1,4 +1,4 @@
-﻿<%@ page title="Add Roles" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Admin_AddRole, App_Web_qo45v051" %>
+﻿<%@ page title="Add Roles" language="C#" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Admin_AddRole, App_Web_jqkglsg2" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <div class="row">

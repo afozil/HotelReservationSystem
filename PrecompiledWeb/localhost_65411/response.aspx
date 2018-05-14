@@ -1,4 +1,4 @@
-﻿<%@ page language="C#" autoeventwireup="true" inherits="response, App_Web_pkj3khse" %>
+﻿<%@ page language="C#" autoeventwireup="true" inherits="response, App_Web_yszl0pdy" %>
 <%
     /*
         'This merchant demo is published by Knet as a demonstration of the process
@@ -7,7 +7,8 @@
         'Also, this demo is not tested for security or stability, and Knet does not intend to recommend
         'this for production purposes. Merchants should build their own web pages based on their needs. 
         'This demo is just a guide as to what the whole process will look like.
-    test
+    
+    Changes Made by Ahamed Fozil on 14-5-52018 @ 7:33 am
 
          ' Declaration of variables
       */

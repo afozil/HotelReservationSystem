@@ -1,4 +1,4 @@
-﻿<%@ page title="" language="C#" masterpagefile="~/OnlineInside.master" autoeventwireup="true" inherits="myreservation, App_Web_4qpqkpye" enableeventvalidation="False" %>
+﻿<%@ page title="" language="C#" masterpagefile="~/OnlineInside.master" autoeventwireup="true" inherits="myreservation, App_Web_3u0vitlg" enableeventvalidation="False" %>
 
 <asp:Content ID="MyReservationContent" ContentPlaceHolderID="MainContent" runat="Server">
     <asp:UpdatePanel ID="myReseversationPanel" runat="server">
